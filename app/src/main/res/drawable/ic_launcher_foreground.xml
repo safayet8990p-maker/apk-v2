@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Layered Liquid Glass Petals / Prisms -->
+    <path
+        android:pathData="M54,24 C63,24 70,31 70,40 C70,49 63,56 54,56 C45,56 38,49 38,40 C38,31 45,24 54,24 Z"
+        android:fillAlpha="0.82">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:startX="38"
+                android:startY="24"
+                android:endX="70"
+                android:endY="56"
+                android:type="linear">
+                <item android:offset="0.0" android:color="#38BDF8" />
+                <item android:offset="1.0" android:color="#0284C7" />
+            </gradient>
+        </aapt:attr>
+    </path>
+    <path
+        android:pathData="M68,38 C77,38 84,45 84,54 C84,63 77,70 68,70 C59,70 52,63 52,54 C52,45 59,38 68,38 Z"
+        android:fillAlpha="0.78">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:startX="52"
+                android:startY="38"
+                android:endX="84"
+                android:endY="70"
+                android:type="linear">
+                <item android:offset="0.0" android:color="#A855F7" />
+                <item android:offset="1.0" android:color="#6366F1" />
+            </gradient>
+        </aapt:attr>
+    </path>
+    <path
+        android:pathData="M54,52 C63,52 70,59 70,68 C70,77 63,84 54,84 C45,84 38,77 38,68 C38,59 45,52 54,52 Z"
+        android:fillAlpha="0.78">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:startX="38"
+                android:startY="52"
+                android:endX="70"
+                android:endY="84"
+                android:type="linear">
+                <item android:offset="0.0" android:color="#F43F5E" />
+                <item android:offset="1.0" android:color="#FB923C" />
+            </gradient>
+        </aapt:attr>
+    </path>
+    <path
+        android:pathData="M40,38 C49,38 56,45 56,54 C56,63 49,70 40,70 C31,70 24,63 24,54 C24,45 31,38 40,38 Z"
+        android:fillAlpha="0.78">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:startX="24"
+                android:startY="38"
+                android:endX="56"
+                android:endY="70"
+                android:type="linear">
+                <item android:offset="0.0" android:color="#34D399" />
+                <item android:offset="1.0" android:color="#06B6D4" />
+            </gradient>
+        </aapt:attr>
+    </path>
+    <!-- Central Liquid Glass Lens Ring & Specular Rim -->
+    <path
+        android:pathData="M54,36 C63.94,36 72,44.06 72,54 C72,63.94 63.94,72 54,72 C44.06,72 36,63.94 36,54 C36,44.06 44.06,36 54,36 Z"
+        android:fillColor="#44FFFFFF"
+        android:strokeWidth="1.8"
+        android:strokeColor="#CCFFFFFF" />
+    <!-- Top-Left Specular Glint -->
+    <path
+        android:pathData="M43,43 C47,39 53,38 58,40 C53,41 47,44 44,49 C42,47 42,44 43,43 Z"
+        android:fillColor="#EEFFFFFF" />
+</vector>

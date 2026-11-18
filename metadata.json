@@ -1,0 +1,6 @@
+{
+  "name": "Glassly",
+  "description": "A flagship Android photo and video gallery built with an authentic iOS 26 Liquid Glass design language, real-time AGSL lens refraction, morphing controls, and non-destructive media management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

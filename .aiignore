@@ -1,0 +1,13 @@
+.git/
+.gradle/
+build/
+app/build/
+*.apk
+*.jar
+*.so
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.gif
+*.svg
